@@ -1,0 +1,13 @@
+.navbar {
+  background-color: white;
+  width: 100vw;
+  padding: 0.5rem 0;
+  display: grid;
+  grid-template-columns: max-content auto;
+  align-items: center;
+}
+.logo {
+  font-size: 2rem;
+  margin: 0 1rem;
+  color: var(--primary);
+}
